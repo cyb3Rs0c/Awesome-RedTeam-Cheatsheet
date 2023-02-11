@@ -1,3 +1,39 @@
+---
+
+![image](https://user-images.githubusercontent.com/75935486/169690637-2f7bd0c1-0799-4e6e-b38c-809f086ea156.png)
+
+---
+
+#  Red Team Techniques
+- [Initial Access Techniques](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet/blob/master/Techniques/Initial%20Access%20Techniques.md) (soon)
+- [Code Execution Techniques](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet/blob/master/Techniques/Code%20Execution%20Techniques.md) (soon)
+- [Lateral Mouvement Techniques](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet/blob/master/Techniques/Lateral%20Mouvement%20Techniques.md) (soon)
+- [Evasion Techniques](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet/blob/master/Techniques/Evasion%20Techniques.md) (soon)
+- [Persistence Techniques](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet/blob/master/Techniques/Persistence%20Techniques.md) (soon)
+- [Privilege Escalation Techniques](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet/blob/master/Techniques/Privilege%20Escalation%20Techniques.md) (soon)
+- [Credential Dumping Techniques](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet/blob/master/Techniques/Credential%20Dumping%20Techniques.md) (soon)
+- [Pivoting Techniques](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet/blob/master/Techniques/Pivoting%20Cheatsheet.md) (soon)
+---
+
+## Windows Protocols and Terminologies
+
+- **[Windows Protocols and Terminologies Guide](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet/blob/master/Active%20Directory%20Protcols%20Guide.md) (soon)**
+
+---
+
+## Miscs
+- [OPSEC Guide](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet/blob/master/Miscs/OPSEC%20Guide.md) 
+- [Malware Development](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet/blob/master/Miscs/Malware%20Development.md)
+- [Attacking AD Azure Cloud](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet/blob/master/Miscs/Attacking%20AD%20Azure%20Cloud.md) (soon)
+---
+
+# Support
+
+**You can support me here :cat: :**
+
+<a href="https://www.buymeacoffee.com/RistBS"><img width=300 src="https://img.buymeacoffee.com/button-api/?text=Buy me a Pizza&emoji=🍕&slug=bsolomon&button_colour=5F7FFF&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff"></a>
+
+
 # Active-directory-Cheat-sheet
 
 This AD attacks CheatSheet, made by RistBS is inspired by the [Active-Directory-Exploitation-Cheat-Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet) repo.
